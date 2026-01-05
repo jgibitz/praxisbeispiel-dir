@@ -6,5 +6,5 @@ window.addEventListener('load', function(){
   
   header.innerHTML = `
   <a href="index.html">Home</a>
-  `
+  `;
 });
