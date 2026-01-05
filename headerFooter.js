@@ -6,6 +6,7 @@ window.addEventListener('load', function(){
   
   header.innerHTML = `
   <a href="index.html">Home</a>
+  <a href="kauf-student.html">Werde Teil der Nabutor-Community</a>
   `;
 
   footer.innerHTML = `
