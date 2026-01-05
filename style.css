@@ -14,7 +14,11 @@ footer {
   padding:10px
 }
 header {
-  text-align: center
+  text-align: center; 
+  display:flex;
+  justify-content:space-around;
+  background-color:#e93f3a;
+  padding:10px
 }
 form{    
     width: 50%;
