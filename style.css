@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: #70b8bf;
 }
 
 h1 {
@@ -7,7 +7,11 @@ h1 {
   margin-left: 20px;
 }
 footer {
-  text-align: center
+  text-align: center; 
+  display:flex;
+  justify-content:space-around;
+  background-color:#70b899;
+  padding:10px
 }
 header {
   text-align: center
