@@ -15,14 +15,14 @@ footer {
   text-align: center; 
   display:flex;
   justify-content:space-around;
-  background-color:#e93f3a;
+  background-color:#B0E0E6;
   padding:10px
 }
 header {
   text-align: center; 
   display:flex;
   justify-content:space-around;
-  background-color:#e93f3a;
+  background-color:#FFA500;
   padding:10px
 }
 form{    
