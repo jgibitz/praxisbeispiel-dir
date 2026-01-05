@@ -2,6 +2,8 @@ body {
   background-color: #70b8bf;
   font-family: Arial;
   text-align: center;
+  padding-right: 60px;
+  padding-left: 60px;
 }
 a {text-decoration: none; }
 h1 {
