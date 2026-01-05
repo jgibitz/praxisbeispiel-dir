@@ -4,11 +4,12 @@ body {
   text-align: center;
   padding-right: 60px;
   padding-left: 60px;
+  font-size: 32px;
 }
 a {text-decoration: none; }
 h1 {
   color: navy;
-  margin-left: 20px;
+  margin-left: 40px;
   font-size:20px;
   text-align:center;
   font-family: Arial
