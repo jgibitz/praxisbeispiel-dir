@@ -3,8 +3,6 @@ const footer = document.querySelector('#footer');
 
 window.addEventListener('load', function(){
   this.document.head.insertAdjacentHTML('beforeend', '<link rel="stylesheet" href="style.css"/>');
-
-  header.className = 'header';
   
   header.innerHTML = `
   <a href="index.html">Home</a>
