@@ -17,6 +17,7 @@ window.addEventListener('load', function(){
     <a href="lizenz.html">Lizenz</a>
     <a href="impressum.html">Impressum</a>
     <a href="datenschutzerklärung.html">Datenschutzerklärung</a>
+    <a href="copyright-info.html">Copyright-Informationen</a>
     <a href="quellen.html">Quellen</a>
     <a href="kontakt.html">Kontakt</a>
   `;
