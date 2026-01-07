@@ -26,7 +26,8 @@ header {
   display:flex;
   justify-content:space-around;
   background-color:#FFA500;
-  padding:10px
+  padding:10px;
+  align-items: center;
 }
 img{
   width:"20";
@@ -34,6 +35,9 @@ img{
 }
 
 button{
-  font-size:35px
+  font-size:35px;
 }
-
+input{
+  width:100px
+  height:40px
+}
