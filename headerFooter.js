@@ -2,7 +2,8 @@ const header = document.querySelector('#header');
 const footer = document.querySelector('#footer');
 
 window.addEventListener('load', function(){
-  this.document.head.insertAdjacentHTML('beforeend', '<link rel="stylesheet" href="style.css"/>');
+  this.document.head.insertAdjacentHTML('beforeend', '<link rel="stylesheet" href="style.css"/> <link rel="stylesheet" href=https://fonts.googleapis.com/css?family
+                                        =Roboto"');
   
   header.innerHTML = `
   <img src="logo.png" width ="200" height="200" alt="Nabutors Logo: Ein Kreis, gefüllt mit mehreren blauen Quadraten und einem orangen Blitz in der Mitte">
