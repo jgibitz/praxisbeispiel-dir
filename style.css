@@ -1,6 +1,6 @@
 body {
   background-color: #70b8bf;
-  font-family: Arial;
+  font-family: Roboto, Arial;
   text-align: center;
   padding-right: 60px;
   padding-left: 60px;
@@ -28,9 +28,11 @@ header {
   background-color:#FFA500;
   padding:10px
 }
-form{    
-    
+img{
+  width:"20";
+  height:"20";
 }
+
 button{
   font-size:35px
 }
