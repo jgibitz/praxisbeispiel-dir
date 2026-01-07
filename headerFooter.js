@@ -5,6 +5,7 @@ window.addEventListener('load', function(){
   this.document.head.insertAdjacentHTML('beforeend', '<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"> <link rel="stylesheet" href="style.css">');
   
   header.innerHTML = `
+  <a href="#main" class="skip-link">Kopfzeile überspringen</a>
   <img src="logo.png" width ="100" height="100" alt="Nabutors Logo: Ein Kreis, gefüllt mit mehreren blauen Quadraten und einem orangen Blitz in der Mitte">
   <a href="index.html">Home</a>
   <a href="login.html">Login</a>
